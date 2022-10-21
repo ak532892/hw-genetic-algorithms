@@ -6,6 +6,19 @@
 ## Final Project ##
 An Implementation for Combining Neural Networks and Genetic Algorithms
 
+1. Run main.m
+2. Input 4 parameters
+
+* First: first layer neuron number
+* Second: second layer neuron number
+* Third: epoch
+* Fourth: population count
+
+## Example ##
+```bash
+10 10 300 100
+```
+
 ## Demo ##
 
 * First result of the convergence figure.
