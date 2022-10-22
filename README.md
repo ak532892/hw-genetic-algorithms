@@ -4,6 +4,7 @@
 * Matlab
 
 ## Final Project ##
+Iris flower classification  
 An Implementation for Combining Neural Networks and Genetic Algorithms
 
 1. Run main.m
